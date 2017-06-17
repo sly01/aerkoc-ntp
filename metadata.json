@@ -1,0 +1,15 @@
+{
+  "name": "aerkoc-ntp",
+  "version": "0.1.0",
+  "author": "aerkoc",
+  "summary": "Ntp module for redhat/centos and debian/ubuntu",
+  "license": "Apache-2.0",
+  "source": "https://github.com/sly01/aerkoc-ntp.git",
+  "project_page": "https://github.com/sly01/aerkoc-ntp",
+  "issues_url": "https://github.com/sly01/aerkoc-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
